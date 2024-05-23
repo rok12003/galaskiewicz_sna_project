@@ -174,4 +174,3 @@ table_club_cores <- kable(df_club_cores, align = "c", caption = "Maximal k-Cores
 cat("Table 10 Club Nodes):\n")
 print(table_club_cores)
 
-
